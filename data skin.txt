@@ -1,11 +1,11 @@
 { "ADS":
     {
   
-       "cpa_image":"yandex",
+      "cpa_image":"yandex",
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
-      "show_cpa":false,
+      "show_cpa":true,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
@@ -22,12 +22,18 @@
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-2140027-1      ",
+      "banner_yandex":"R-M-2140027-1",
       "native_yandex":"R-M-2140027-2",
       "interstitial_yandex":"R-M-2140027-3",
       "rewarde_yandex":"R-M-2140027-4",
+        
+        
+        "banner_huawei":"testw6vs28auh3",
+        "interstitial_huawei":"teste9ih9j0rc3",
+ 	"reward_huawei":"testx9dtjwj8hp",
+        "native_huawei":"testy63txaom86",
 
-      "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
+      
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
       "native_admob":"ca-app-pub-3940256099942544/2247696110",
       "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
